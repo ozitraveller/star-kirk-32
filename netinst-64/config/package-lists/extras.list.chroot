@@ -1,0 +1,38 @@
+gdisk
+htop
+iftop
+iotop
+ncdu
+parted
+wavemon
+iw
+# wireless-tools
+localepurge
+openssh-server
+openssh-sftp-server
+# openssh-client
+# openssl	
+mc	
+mc-data	
+debfoster
+rsync
+ufw
+
+
+setnet
+wpasupplicant
+net-tools
+iputils-ping
+bind9-host
+traceroute
+
+apt-listchanges
+wget
+
+ca-certificates
+hwdata
+
+policykit-1
+policykit-1-gnome
+rfkill
+usbutils
