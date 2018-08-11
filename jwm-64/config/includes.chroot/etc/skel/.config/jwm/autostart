@@ -28,7 +28,10 @@ sleep 1
 }
 
 ## Enable power management
-xfce4-power-manager &
+# xfce4-power-manager &
+
+## Start notifications
+dunst &
 
 ## Start mixer
 # volti &

@@ -1,5 +1,8 @@
 jwm
 
+# notify-osd
+dunst
+
 connman
 connman-ui
 # wicd
@@ -7,20 +10,24 @@ connman-ui
 hsetroot
 
 lxterminal
-lxrandr
+arandr
 lxappearance
-# gmrun
 leafpad
+# gmrun
 
 pcmanfm
 libfm-modules
-udevil
-# gvfs-backends
-# gvfs-fuse
+gvfs-backends
+gvfs-fuse
+lsof
+
+# spacefm
+# udevil
 
 yad
 
 mpv
+# pnmixer
 # file-roller
 xarchiver
 

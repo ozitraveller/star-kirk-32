@@ -17,7 +17,8 @@ mc-data
 debfoster
 rsync
 ufw
-
+zip
+unzip
 
 setnet
 wpasupplicant

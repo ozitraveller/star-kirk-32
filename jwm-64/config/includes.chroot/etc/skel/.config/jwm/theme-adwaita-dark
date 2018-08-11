@@ -35,7 +35,10 @@
         <Outline>#33393B</Outline>
         <Active>
             <Foreground>#FFFFFF</Foreground>
+<!--
             <Background>#4084D6</Background>
+-->
+            <Background>#33393A</Background>
         </Active>
     </MenuStyle>
 
@@ -47,7 +50,7 @@
         <Outline>#262626</Outline>
         <Active>
             <Foreground>#FFFFFF</Foreground>
-            <Background>#215d9c</Background>
+            <Background>#505050</Background>
         </Active>
     </TrayStyle>
 
