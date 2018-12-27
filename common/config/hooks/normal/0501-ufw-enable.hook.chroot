@@ -18,7 +18,7 @@ echo "I: ufw enable"
 #~ # ufw delete allow 22
 
 ufw enable
-# ufw default reject incoming
+ufw default reject incoming
 # ufw default allow outgoing
 # ufw allow ssh /port 22
 # ufw delete allow 22
