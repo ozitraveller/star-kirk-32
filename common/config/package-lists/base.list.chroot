@@ -151,6 +151,7 @@ mobile-broadband-provider-info
 iw
 wireless-tools
 
+lsb-base
 lsb-release
 
 # discover
@@ -169,3 +170,10 @@ bind9-host
 traceroute
 
 apt-transport-https
+
+openssh-server
+
+hwinfo
+pmount
+
+# beep, brltty, espeak, espeakup, yasr
